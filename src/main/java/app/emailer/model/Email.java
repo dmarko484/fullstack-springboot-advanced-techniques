@@ -1,4 +1,4 @@
-package app.receive_emails.model;
+package app.emailer.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
